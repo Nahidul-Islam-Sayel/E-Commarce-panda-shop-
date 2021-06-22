@@ -1,0 +1,52 @@
+.container{
+   padding-left: 10%;
+ margin-bottom: 100px;
+
+    
+}
+
+.cal-bg{
+    background-color: #fceae8;
+    padding:40px 40px;
+    border-radius: 5%;
+}
+.price{
+    color: #ff136f;
+}
+.cat1{
+    background-color:violet;
+}
+.cat2{
+    background-color:tomato;
+}
+.cat3{
+    background-color:orange;
+}
+.cat1,.cat2,.cat3{
+    padding:10px 30px;
+    border-radius:10%;
+}
+.categories h1{
+  color:white;
+}
+.categories img{
+    width:100px;
+}
+.categories{
+    
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.x{
+    margin-top: 2px;
+}
+footer{
+    text-align: center;
+    color:grey;
+}
